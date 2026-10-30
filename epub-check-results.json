@@ -1,0 +1,28 @@
+{
+  "sample": "Original fictional demonstration, prepared with AI assistance",
+  "checker": {
+    "name": "W3C EPUBCheck",
+    "version": "5.4.0",
+    "source": "https://github.com/w3c/epubcheck/releases/tag/v5.4.0",
+    "officialProject": "https://www.w3.org/publishing/epubcheck/",
+    "runLocally": true
+  },
+  "before": {
+    "exitCode": 1,
+    "errors": 4,
+    "warnings": 0,
+    "sha256": "579bc75ea8d517e8418da39c4dc53ee143dec6e362d00c1dc35e7336e663cf24"
+  },
+  "after": {
+    "exitCode": 0,
+    "errors": 0,
+    "warnings": 0,
+    "sha256": "7f41ed3e184f07531c0804793c35532e6f0fe8af40f2451d0febeecd808d9ca1"
+  },
+  "not_tested": [
+    "Reader visual appearance",
+    "Retailer upload acceptance",
+    "Accessibility",
+    "Real client manuscripts"
+  ]
+}
