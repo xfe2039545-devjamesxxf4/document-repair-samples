@@ -20,7 +20,9 @@ A fictional two-page club newsletter was reconstructed as normal Word paragraphs
 
 ![Source and independent reconstruction comparison](newsletter-comparison.png)
 
-The independent PDF proof reads the actual Word file's text, styles and tables, but is **not a Microsoft Word export or proof of identical Word pagination**. Native Word layout has not yet been visually verified. This example does not test raw Publisher .pub import, scanned handwriting, damaged files or complex artwork.
+The independent PDF proof reads the actual Word file's text, styles and tables, but is **not a Microsoft Word export or proof of identical Word pagination**. Both pages of the actual DOCX were subsequently opened and visually checked in Microsoft Office on the web; no clipping or overlap was observed. Desktop Word and printer-specific output can still differ. This example does not test raw Publisher .pub import, scanned handwriting, damaged files or complex artwork.
+
+[Open the actual Word web preview](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fgithub.com%2Fxfe2039545-devjamesxxf4%2Fdocument-repair-samples%2Fraw%2Frefs%2Fheads%2Fmain%2FNewsletter%2520-%2520Editable.docx)
 
 ## Family recipe keepsake
 
